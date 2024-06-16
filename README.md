@@ -1,6 +1,6 @@
 # Welcome to [Krutika Jalandar] profile! 
 
-<a href=(https://www.linkedin.com/in/krutika-jalandar-9891a7229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krutikajalandar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/krutika_jalandar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 &nbsp;
