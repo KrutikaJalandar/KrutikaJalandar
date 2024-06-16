@@ -2,13 +2,10 @@
 <h1 align="center">Hi 👋, I'm Krutika Arun Jalandar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
-- 🔭 I’m currently pursing **Master in Computer Application**
-
-- 💬 Ask me about **Manual Testing concept like SDLC,STLC,Defect Life Cycle,Jira,Agile etc.**
-
-- 🌱 I’m currently learning **Automation Testing using Selenium with JAVA**
-
-- 📫 How to reach me **krutikajalandar28@gmail.com**
+- 🔭 I’m currently pursing <b>Master in Computer Application</b>
+- 🌱 I’m currently learning <b>Automation Testing using Selenium with JAVA</b>
+- 💬 Ask me about <b>Manual Testing concept like SDLC,STLC,Defect Life Cycle,Jira,Agile etc.<br>JAVA,Selenium,</b>
+- 📫 How to reach me <b>krutikajalandar28@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
