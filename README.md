@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fankitt26&psig=AOvVaw0Vu5YBfaMloQRL4HrSU1bk&ust=1718636246363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjunouy4IYDFQAAAAAdAAAAABAK)
+![logo](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Krutika Arun Jalandar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
