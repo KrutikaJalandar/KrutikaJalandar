@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandgaygol178&label=Profile%20views&color=0e75b6&style=flat" alt="anandgaygol178" /> </p>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw1iQs_0iL0leu5iwZYV0M8W&ust=1718635215197000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiNsL6t4IYDFQAAAAAdAAAAABAE">
 - 🔭 I’m currently pursing <b>Master in Computer Application</b><br>
 
 - 🌱 I’m currently learning <b>Automation Testing using Selenium with JAVA</b><br>
