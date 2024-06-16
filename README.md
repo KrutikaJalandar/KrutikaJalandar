@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![logo](https://www.google.com/imgres?q=banner%20gif%20image%20for%20github%20for%20girl%20for%20software%20testing%20coding%20for%20software%20testing%20image%20profile%20banner&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F90236635%2F232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FPritamSarbajna%2FCoding-platforms-Solution&docid=8HgMTneLLMameM&tbnid=oqhloCkRe2-UdM&vet=12ahUKEwjCj42IseCGAxWxzDgGHTHDBIYQM3oECF0QAA..i&w=1584&h=396&hcb=2&ved=2ahUKEwjCj42IseCGAxWxzDgGHTHDBIYQM3oECF0QAA)
 <h1 align="center">Hi 👋, I'm Krutika Arun Jalandar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
