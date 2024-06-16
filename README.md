@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikajalandar78&label=Profile%20views&color=0e75b6&style=flat" alt="krutikajalandar" /> </p>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_EeZmBVHVdizQu94qECDlu1K0F8ENkNs9tp6RaByQSFbCvZtCtEPjuCx0w&s">
+<img align="right" alt="coding" width="400" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_EeZmBVHVdizQu94qECDlu1K0F8ENkNs9tp6RaByQSFbCvZtCtEPjuCx0w&s">
 - 🔭 I’m currently pursing <b>Master in Computer Application</b><br>
 
 - 🌱 I’m currently learning <b>Automation Testing using Selenium with JAVA</b><br>
