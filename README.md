@@ -1,5 +1,17 @@
-# Welcome to [Krutika Jalandar] profile! 
 
+<h1 align="center">Hi 👋, I'm Krutika Arun Jalandar</h1>
+<h3 align="center">A passionate Software Tester from India</h3>
+<h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
+- 🔭 I’m currently pursing **Master in Computer Application**
+
+- 💬 Ask me about **Manual Testing concept like SDLC,STLC,Defect Life Cycle,Jira,Agile etc.**
+
+- 🌱 I’m currently learning **Automation Testing using Selenium with JAVA**
+
+- 📫 How to reach me **krutikajalandar28@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/krutikajalandar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/krutika_jalandar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
