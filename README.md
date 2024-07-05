@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning <b>Automation Testing using Selenium with JAVA</b><br>
 
-- 💬 Ask me about <b>Manual Testing concept like SDLC,STLC,Defect Life Cycle,Jira,Agile, JAVA,Selenium</b><br>
+- 💬 Ask me about Ask me about <b>⚡Manual Testing: SDLC, STLC, Defect Life Cycle, Black Box Testing, Jira Tool, Agile Methodology, Test Case Design and Execution</b><br>
+                   <b>⚡Automation Testing: Selenium, TestNG for Test Execution, API Testing with Postman, JAVA, SQL</b><br>
+                   <b>⚡Full Stack Development: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL </b><br>
 
 - 📫 How to reach me <b>krutikajalandar28@gmail.com</b>
 
